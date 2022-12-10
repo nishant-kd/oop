@@ -1,0 +1,68 @@
+The Alberta Hospital (AH) Management system is pleased to have you.
+Choose from the available options, or press 0 to stop, as appropriate:
+1 - 	Doctors
+2 - 	Facilities
+3 - 	Laboratories
+4 - 	Patients
+2
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+1
+The Hospital  Facilities are:
+
+Ambulance
+
+Admissions
+
+Canteen
+
+Emergency
+
+Back to the prevoius Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+2
+Enter Facility name:
+
+Covid Care
+
+Back to the prevoius Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+1
+The Hospital  Facilities are:
+
+Ambulance
+
+Admissions
+
+Canteen
+
+Emergency
+
+Covid Care
+
+Back to the prevoius Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+3
+
+The Alberta Hospital (AH) Management system is pleased to have you.
+Choose from the available options, or press 0 to stop, as appropriate: 
+1 - 	Doctors
+2 - 	Facilities
+3 - 	Laboratories
+4 - 	Patients 
+

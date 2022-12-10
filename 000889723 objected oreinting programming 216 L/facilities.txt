@@ -1,0 +1,9 @@
+Hospital  Facilities are:
+Ambulance
+Admissions 
+Canteen
+Emergency
+Covid Care
+
+
+covid care
